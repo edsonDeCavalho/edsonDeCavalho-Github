@@ -1,7 +1,5 @@
 Hi there 👋, thanks for visiting my github profile!
-I am a student in Computer Science very enthusiast ,in the last year in  bachelor's degree in computer engineering at CY Cergy Paris Université.
-
-### Hi there, I'm Edson - aka [codeSTACKr][website] 👋
+I am a student in Computer Science very enthusiast ,in the last year in  bachelor's degree in computer engineering at CY Cergy Paris Université.👋
 ⚡⚡⚡ I’m looking for an intership in Web and mobile develloppement for September 2021 !⚡⚡⚡
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
