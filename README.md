@@ -1,10 +1,9 @@
 Hi there 👋, thanks for visiting my github profile!
 I am a student in Computer Science very enthusiast ,in the last year in  bachelor's degree in computer engineering at CY Cergy Paris Université.👋
+<br/>
 ⚡⚡⚡ I’m looking for an intership in Web and mobile develloppement for September 2021 !⚡⚡⚡
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
+<br/>
 ## I'm a Student, Artist, and Human!!
 
 - 🌱 I’m currently learning everything 🤣
