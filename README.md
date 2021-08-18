@@ -1,7 +1,7 @@
 Hi there 👋, thanks for visiting my github profile!
 I am a student in Computer Science very enthusiast ,I have a bachelor's degree in computer science at CY Cergy Paris Université.👋
 <br/>
-⚡⚡⚡ I’m looking for an intership in Web and mobile develloppement for September 2021 !⚡⚡⚡
+⚡⚡⚡ I’m looking for apprenticeship in Web and Mobile Development for September 2021!⚡⚡⚡
 
 <br/>
 ## I'm a Student, Artist, and Human!!
