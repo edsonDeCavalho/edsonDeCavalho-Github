@@ -1,5 +1,5 @@
 Hi there 👋, thanks for visiting my github profile!
-I am a student in Computer Science very enthusiast ,in the last year in  bachelor's degree in computer engineering at CY Cergy Paris Université.👋
+I am a student in Computer Science very enthusiast ,I have a bachelor's degree in computer science at CY Cergy Paris Université.👋
 <br/>
 ⚡⚡⚡ I’m looking for an intership in Web and mobile develloppement for September 2021 !⚡⚡⚡
 
